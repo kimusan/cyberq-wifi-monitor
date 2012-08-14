@@ -2,9 +2,37 @@
 
 = Introduction =
 
-Add your content here.
+BBQMonitor will connect to a <a href="http://www.thebbqguru.com/">BBQ Guru </a> <a href="http://www.thebbqguru.com/products/CyberQ-Wifi.html">CyberQ WiFi</a>. Currently it only supports monitoring of the CyberQ and does not update any set points. Also it has been tested to work with the v0.8 firmware only.
+
+The BBQMonitor also has configurable alarms. This will alert you when the actual temperature goes above or below the set values.
 
 
-= Details =
+= Screen Shots =
+
+Portrait showing 2 Gauges
 
 https://lh5.googleusercontent.com/-Mi82U-D2r0g/UCrVrdNlk3I/AAAAAAAAEdc/onTisC0NY1A/s640/2temps.png
+
+Portrait showing 3 Gauges
+
+https://lh5.googleusercontent.com/-XBbOldHUEk4/UCrVrSOJkaI/AAAAAAAAEdY/cs7PkkHj_js/s640/3temps.png
+
+Portrait showing 4 Gauges
+
+https://lh5.googleusercontent.com/-b2ARJgvawUY/UCrVr0VTDxI/AAAAAAAAEdo/_3Ah3dywQKQ/s640/4temps.png
+
+Landscape showing 2 Gauges
+
+https://lh4.googleusercontent.com/-oI7SLGqq_Pg/UCrVtSrEx6I/AAAAAAAAEeA/AWpj-KHM2KE/s960/2temps_land.png
+
+Notifications when running
+
+https://lh6.googleusercontent.com/-xbV078szCKg/UCrVrzJohkI/AAAAAAAAEdk/mRSi4Yj5tYI/s960/notifications.png
+
+User Preferences - This is where you set the IP or hostname of the CyberQ Wifi and how often it polls for updates, suggest 30 seconds or more when on battery.
+
+https://lh4.googleusercontent.com/-po-lNsbi-0U/UCrVsQhU6rI/AAAAAAAAEdw/lAQ4RHzdQpY/s960/prefs.png
+
+Setting of the alarms, click on the Pig on any of the Thermometers
+
+https://lh5.googleusercontent.com/-zF4yCr7Hjfc/UCrXVXv5qbI/AAAAAAAAEeQ/i7hA6aCBV-Y/s640/alarms.png
