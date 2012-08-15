@@ -1,0 +1,8 @@
+#summary One-sentence summary of this page.
+
+= Version 1 =
+
+  * Initial Release 8/14/2012
+  * Tested with .8 Firmware
+  * Timeout on 9/14/2012, will need to install an updated version after that
+  * Does not update the setpoints on the CyberQ Wifi, only a monitor
