@@ -11,28 +11,30 @@ The BBQMonitor also has configurable alarms. This will alert you when the actual
 
 Portrait showing 2 Gauges
 
-https://lh5.googleusercontent.com/-Mi82U-D2r0g/UCrVrdNlk3I/AAAAAAAAEdc/onTisC0NY1A/s640/2temps.png
+https://lh6.googleusercontent.com/-WrS5axmBgkc/UC6hOYtiQmI/AAAAAAAAEik/T5VgjD-K0Ko/s720/2temps.png
 
 Portrait showing 3 Gauges
 
-https://lh5.googleusercontent.com/-XBbOldHUEk4/UCrVrSOJkaI/AAAAAAAAEdY/cs7PkkHj_js/s640/3temps.png
+https://lh4.googleusercontent.com/-s2oUPa21AcI/UC6hOR_oejI/AAAAAAAAEig/J27QWCDht4w/s720/3temps.png
 
 Portrait showing 4 Gauges
 
-https://lh5.googleusercontent.com/-b2ARJgvawUY/UCrVr0VTDxI/AAAAAAAAEdo/_3Ah3dywQKQ/s640/4temps.png
+https://lh4.googleusercontent.com/-VGMURf1hsXA/UC6hO4fKI7I/AAAAAAAAEiw/o78HoXlClA4/s720/4temps.png
 
 Landscape showing 2 Gauges
 
-https://lh4.googleusercontent.com/-oI7SLGqq_Pg/UCrVtSrEx6I/AAAAAAAAEeA/AWpj-KHM2KE/s960/2temps_land.png
+https://lh5.googleusercontent.com/-GfkRgMYfxA0/UC6hOUKJIwI/AAAAAAAAEis/-0AyEaSuEyU/s960/2temps_land.png
 
 Notifications when running
 
-https://lh6.googleusercontent.com/-xbV078szCKg/UCrVrzJohkI/AAAAAAAAEdk/mRSi4Yj5tYI/s960/notifications.png
+https://lh4.googleusercontent.com/-FGJcEyS013s/UC6hQNoNgjI/AAAAAAAAEjQ/6aXK6hhwTl8/s960/notifications.png
 
-User Preferences - This is where you set the IP or hostname of the CyberQ Wifi and how often it polls for updates, suggest 30 seconds or more when on battery.
+User Preferences - This is where you set the IP or hostname of the CyberQ Wifi and how often it polls for updates, suggest 30 seconds or more when on battery. You can also change CyberQ Wifi Control and Settings parameters.
 
-https://lh4.googleusercontent.com/-po-lNsbi-0U/UCrVsQhU6rI/AAAAAAAAEdw/lAQ4RHzdQpY/s960/prefs.png
+https://lh3.googleusercontent.com/-Wzv2QiAMSYg/UC6hQRtblsI/AAAAAAAAEjY/hcnsAezOaaQ/s720/prefs.png
+
+https://lh3.googleusercontent.com/-QG5dLbEwZdc/UC6hQuPWS9I/AAAAAAAAEjc/qu8qLpNJLXM/s720/prefs2.png
 
 Setting of the alarms, click on the Pig on any of the Thermometers
 
-https://lh5.googleusercontent.com/-zF4yCr7Hjfc/UCrXVXv5qbI/AAAAAAAAEeQ/i7hA6aCBV-Y/s640/alarms.png
+https://lh5.googleusercontent.com/-ASpYyTftlLo/UC6hO4gfjdI/AAAAAAAAEjg/cBxPJQapm_A/s720/alarms.png
