@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Quick description and screen shots of BBQ monitor
 
 = Introduction =
 
