@@ -1,0 +1,16 @@
+# Version 2 #
+  * Release 8/17/2012
+  * Tested with 1.1 Firmware ONLY, will NOT work with .8 Firmware
+  * Supports HTTP Authentication
+  * Will update all CyberQ data except SMTP and WiFi Settings
+  * Added Output % and Timer to Main Screen
+  * added Output % to Notifications
+  * Notifications now display User set labels for Probes
+  * Gauges show user set labels for Probes
+
+# Version 1 #
+
+  * Initial Release 8/14/2012
+  * Tested with .8 and 1.1 Firmware
+  * Timeout on 9/15/2012, will need to install an updated version after that
+  * Does not update the setpoints on the CyberQ Wifi, only a monitor

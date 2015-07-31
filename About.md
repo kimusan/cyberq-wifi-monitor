@@ -1,0 +1,7 @@
+# Included Libraries #
+
+Apache HttpComponents
+http://www.apache.org/licenses/LICENSE-2.0
+
+Mind-The-Robot Vintage Gauge
+http://mindtherobot.com/blog/272/android-custom-ui-making-a-vintage-thermometer/
